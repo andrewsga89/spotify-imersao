@@ -1,5 +1,5 @@
 body {
-    background-color: #000;
+    background: linear-gradient(to top, #000, #3b674b);
     font-family: var(--font-dm-sans);
 }
 
